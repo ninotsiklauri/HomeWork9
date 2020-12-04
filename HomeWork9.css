@@ -1,0 +1,21 @@
+.container{
+    border: blue 1px solid;
+    margin: auto;
+    height: 400px;
+    width: 700px;
+    position: relative;
+}
+.div2{
+    border: blue 1px solid;
+    margin: auto;
+    height: 75px;
+    width: 290px;
+    padding: 10px;
+}
+#div3{
+    position: absolute;
+    border: solid 1px black;
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+}
